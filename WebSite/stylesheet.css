@@ -1,0 +1,223 @@
+body{
+	margin: 0;
+}
+/*navigation*/
+.menu{
+	width:100%;
+	height:90px;
+	background-color: #a58b6b;
+	margin-top: -15px;
+}
+
+.logo{
+	width:60px;
+	float: left;
+	margin-top: 10px;
+	margin-left: 80px;
+}
+
+ol{
+	width:90%;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 90px;
+	height:90px;
+}
+
+nav li{
+	font-size: 10pt;
+	display: inline;
+	list-style-type: none;
+	border: 15px solid white;
+	color:#7c6343;
+	background-color: white;
+	padding:2px;
+	border-radius: 10px;
+	margin-right: 10px
+}
+
+.menu li:hover{
+	border: 15px solid #74440a;
+	color:white;
+	background-color: #74440a;
+}
+
+a {
+	text-decoration: none;
+}
+
+.clear{
+	clear:both;
+}
+
+/*top*/
+.topimg{
+	margin-top: -16px;
+	position: relative;
+}
+
+.topbeer{
+	float:left;
+	position: absolute;
+	width:350px;
+	height:350px;
+	top:120px;
+	left:120px;
+	border: 8px solid white;
+	border-radius: 50%;
+}
+
+.topcafe{
+	width:100%;
+	height:600px;
+}
+
+.pagetitle{
+	width:350px;
+	float:right;
+	color:white;
+	font-family: 'Pacifico', cursive;
+	font-size:90px;
+	position: absolute;
+	top:120px;
+	right:140px;
+}
+/*each title*/
+h2 {
+	width:15%;
+	margin: 0 auto;
+	padding-top: 20px;
+	text-align: center;
+	border-bottom: 5px dotted;
+}
+/*shop name*/
+h4{
+	margin-top:-50px;
+}
+
+.contentwhite{
+	margin: 0 auto;
+	overflow: auto;
+	width:100%;
+	height:450px;
+	color:gray;
+	background-color: white;
+}
+
+.contentbrown{
+	margin: 0 auto;
+	overflow: auto;
+	width:100%;
+	height:450px;
+	color:white;
+	background-color: #a58b6b;
+}
+
+.aboutcon{
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.content{
+	float: left;
+	width: 45%;
+	height: 200px;
+	margin-top: 120px;
+	font-size: 18px;
+}
+	
+.me{
+	height: 200px;
+	width: 45%;
+	float: left;
+	margin-left: 10%
+}
+
+.myimg{
+	width: 30%;
+	border-radius:20px 80px 20px 80px;
+	float: left;
+	margin-top: 120px;
+	margin-left: auto;
+
+}
+
+.myself{
+	width:60%;
+	float:left;
+	margin-top: 130px;
+	margin-left: 5px;
+}
+
+.thumbnail{
+	width:150px;
+	border-radius: 60px;
+}
+
+.placelist ol{
+	margin-left: 20px;
+}
+
+.placelist ol li{
+	display: inline-block;
+	margin: 20px 50px;
+}
+
+.info{
+	margin-top: -160px;
+}
+
+form{
+	margin-top: 30px;
+}
+
+input {
+	width:70%;
+	height:20px;
+	border-radius: 5px;
+	margin: 3px auto;
+	margin-left: 15%;
+}
+
+textarea{
+	width:70%;
+	height:30%;
+	border-radius: 5px;
+	margin: 3px auto;
+	margin-left: 15%;
+}
+
+button{
+	width:10%;
+	height:20px;
+	margin: 3px auto;
+	margin-right: 15%;
+	float:right;
+
+}
+
+h5{
+	text-align: center;
+	margin-bottom: -10px;
+}
+
+.form{
+	width:60%;
+	margin:0 auto;
+	padding-top: 10px;
+
+}
+
+footer{
+	width: 100%;
+	height:20%;
+	background-color: white;
+	color:gray;
+	text-align: center;
+	margin-bottom: 2%;gi
+}
+
+i{
+	margin: 2% 0.5%;
+}
